@@ -4,4 +4,4 @@ This is a webpage based on Django that utilizes Google's Gemini LLM API to gener
 
 You can try it out at https://genai-yt-article-generator.vercel.app/
 
-The PostgreSQL database for this project is hosted on Supabase and the actual Django server is automatically deployed in Vercel.
+The PostgreSQL database for this project is hosted on Supabase and the actual Django app is deployed in Vercel.
